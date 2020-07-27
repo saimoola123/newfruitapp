@@ -1,5 +1,3 @@
-//dev2 changing same line as dev 1
-//dev1
 sap.ui.define([
 	"sap/ui/core/mvc/Controller",
 	"sap/m/MessageBox",
